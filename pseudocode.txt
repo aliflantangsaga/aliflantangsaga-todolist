@@ -6,3 +6,7 @@ STORE "email" with "lontongsayur@outlook.com"
 STORE "password" with "kipasaircosmos"
 STORE "list" with "Masak nasi goreng sambil mandi"
 STORE "time" with 09:00
+IF "list" more than equal "time"
+    PRINT "don't forget to do it"
+ELSE
+    PRINT "already done"
