@@ -1,0 +1,4 @@
+READ AND WRITE "email" with string
+READ AND WRITE "password" with string
+READ AND WRITE "list" with string
+READ AND WRITE "time" with time
