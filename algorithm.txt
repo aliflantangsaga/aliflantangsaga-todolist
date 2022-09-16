@@ -1,3 +1,7 @@
 1. Mulai
 2. Buka aplikasi
 3. Bikin akun
+4. Memasukan kegiatan yang direncanakan
+5. Memasukan waktu kegiatan
+6. Keluar aplikasi
+7. Selesai
